@@ -18,10 +18,11 @@ npm install
 ```
 
 dan pergi ke config.json , di sana ada seperti ini:
-
+`
 {
     "email": "email here",
     "password": "password here"
 }
+`
 
 dan ganti `email here` menjadi email kamu
