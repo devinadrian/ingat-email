@@ -20,8 +20,8 @@ npm install
 dan pergi ke config.json , di sana ada seperti ini:
 `
 {
-    "email": "email here",
-    "password": "password here"
+   "email": "email here",
+   "password": "password here"
 }
 `
 
