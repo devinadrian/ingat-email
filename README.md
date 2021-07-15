@@ -18,11 +18,6 @@ npm install
 ```
 
 dan pergi ke config.json , di sana ada seperti ini:
-`
-{
-   "email": "email here",
-   "password": "password here"
-}
-`
 
+<img src="https://cdn.discordapp.com/attachments/852833544967684096/865081365330264074/unknown.png">
 dan ganti `email here` menjadi email kamu
